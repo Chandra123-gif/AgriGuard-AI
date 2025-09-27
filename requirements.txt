@@ -12,4 +12,8 @@ tensorflow==2.18.0
 # Image / Video Processing
 opencv-python==4.10.0.84
 Pillow==11.0.0
-ffmpeg-python==0.2.1
+ffmpeg-python==0.2.0
+
+# Additional Libraries
+pyttsx3
+SpeechRecognition
